@@ -11,3 +11,4 @@ function selectFlag(event, flagPath, languageName) {
     activeFlag.alt = languageName;
     toggleFlags(event);
 }
+
